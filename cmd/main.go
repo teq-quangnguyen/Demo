@@ -7,4 +7,5 @@ func main() {
 	go fmt.Println("hello")
 	go fmt.Println("world")
 	go fmt.Println("======")
+	fmt.Println("waiting !!!")
 }
