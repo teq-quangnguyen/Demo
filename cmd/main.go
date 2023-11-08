@@ -9,4 +9,5 @@ func main() {
 	go fmt.Println("======")
 	fmt.Println("waiting !!!")
 	fmt.Println("time !!!")
+	fmt.Println("end !!!")
 }
