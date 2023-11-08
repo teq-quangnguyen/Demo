@@ -8,4 +8,5 @@ func main() {
 	go fmt.Println("world")
 	go fmt.Println("======")
 	fmt.Println("waiting !!!")
+	fmt.Println("time !!!")
 }
